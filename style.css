@@ -1,0 +1,51 @@
+body {
+    /* background-color:lightblue; */
+    font-family: Arial, sans-serif;
+    /* background-image: url("https://encrypted-rbn0.gstatic.com/images?q=tbn:ANd9GcRFYWcBO8_7fvLjOZpRUe1R-w9fnqIVefuXQ&usqp=CAU"); */
+  }
+  header {
+    text-align: center;
+    background-color: #1098d3;
+    color: white;
+    padding: 10px 0;
+  }
+  /* #.logo {
+      color:white;
+      font-weight:700;}
+  #.logo span {
+      color:blue;} */
+  nav ul {
+    list-style: none;
+    justify-content: center;
+    display: flex;
+  }
+  nav a {
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+  }
+  .hero {
+    text-align: center;
+    padding: 150px 0;
+    margin-bottom: 50px;
+  }
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  .hero h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  main {
+    padding: 2rem;
+  }
+  section {
+    margin-bottom: 1.5rem;
+  }
+  footer {
+    text-align: center;
+    background-color: #1089d3;
+    padding: 1rem;
+  }
+  
